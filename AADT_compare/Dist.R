@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 library(ggplot2)
 library(dplyr)
 
@@ -42,3 +43,5 @@ ggplot(data = Rural_dist, mapping = aes(x = as.numeric(Pct.Change))) +
 
 ggplot(data = Rural_dist, mapping = aes(x = Pct.Change)) +
   geom_boxplot()
+=======
+>>>>>>> 7a52c8420f0ef6ddb148373c504c7554eef9b8a4
